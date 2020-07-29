@@ -1,9 +1,7 @@
 export default {
   typescript: true,
   files: '**/*.{md,mdx}',
-  menu: [
-    { name: 'Components', menu: ['Avatar', 'AvatarGroup'] }
-  ],
+  menu: ['Components'],
   base: 'src',
   port: 4000,
   ignore: [
