@@ -39,7 +39,7 @@
     "docz-utils": "2.3.0",
     "gatsby-plugin-alias-imports": "^1.0.5",
     "gatsby-plugin-module-resolver": "^1.0.3",
-    "node-sass": "4.13.1",
+    "node-sass": "7.0.0",
     "prettier": "1.18.2",
     "purgecss": "2.2.1",
     "react-app-rewired": "2.1.5",
